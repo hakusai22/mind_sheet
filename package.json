@@ -1,0 +1,38 @@
+{
+  "name": "mind_sheet",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@vue-flow/background": "^1.3.2",
+    "@vue-flow/controls": "^1.1.3",
+    "@vue-flow/core": "^1.48.1",
+    "@vue-flow/minimap": "^1.5.4",
+    "@vueuse/core": "^14.1.0",
+    "handsontable": "^16.2.0",
+    "jszip": "^3.10.1",
+    "mind-elixir": "^5.3.8",
+    "nuxt": "^3.14.0",
+    "radix-vue": "^1.9.17",
+    "reka-ui": "^2.7.0",
+    "vue": "^3.5.13",
+    "vue-router": "^4.5.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^6.14.0",
+    "@radix-icons/vue": "^1.0.0",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "lucide-vue-next": "^0.562.0",
+    "shadcn-nuxt": "^2.4.3",
+    "tailwind-merge": "^3.4.0",
+    "tailwindcss-animate": "^1.0.7",
+    "typescript": "^5.6.3"
+  }
+}
