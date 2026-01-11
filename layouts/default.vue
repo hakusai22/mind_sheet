@@ -21,6 +21,8 @@
   flex-direction: column;
 }
 
+
+
 .navbar {
   display: flex;
   align-items: center;
